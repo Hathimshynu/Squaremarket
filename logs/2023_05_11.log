@@ -1,0 +1,11 @@
+2023.05.11 16:48:12	2	WebAPI:parse user get failed: [3]Invalid parameters
+2023.05.11 22:15:12	2	WebAPI:parse history get failed: [13]Not found
+2023.05.11 22:18:39	2	WebAPI:parse order get page failed: [8]Not enough permissions
+2023.05.11 22:19:28	2	WebAPI:parse history get failed: [13]Not found
+2023.05.11 22:19:38	2	WebAPI:parse history get failed: [13]Not found
+2023.05.11 22:26:14	2	WebAPI:parse deal get total failed: [3]Invalid parameters
+2023.05.11 22:27:36	2	WebAPI:parse deal get failed: [8]Not enough permissions
+2023.05.11 22:30:33	2	WebAPI:parse order get failed: [13]Not found
+2023.05.11 22:35:19	2	WebAPI:parse order get page failed: [3]Invalid parameters
+2023.05.11 22:35:33	2	WebAPI:parse order get page failed: [8]Not enough permissions
+2023.05.11 22:35:46	2	WebAPI:parse order get page failed: [8]Not enough permissions

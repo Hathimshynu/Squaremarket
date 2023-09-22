@@ -1,0 +1,8 @@
+2023.07.03 13:39:13	2	WebAPI:parse user get failed: [13]Not found
+2023.07.03 13:40:21	2	WebAPI:parse user get failed: [13]Not found
+2023.07.03 16:55:29	2	WebAPI:incorrect header read,  0 bytes
+2023.07.03 16:55:29	2	WebAPI:answer auth start is empty
+2023.07.03 16:55:29	2	WebAPI:auth start failed: [7]Network error
+2023.07.03 16:58:04	2	WebAPI:incorrect header read,  0 bytes
+2023.07.03 16:58:04	2	WebAPI:answer auth start is empty
+2023.07.03 16:58:04	2	WebAPI:auth start failed: [7]Network error
